@@ -72,7 +72,13 @@
             }
     }
 
-    
+    /*-----------
+    navigator.getUserMedia({video: true}, () => {
+                console.log('has webcam')
+                }, () => {
+                console.log('no webcam')
+                });
+    -----------*/
     
 </script>
     
